@@ -6,6 +6,8 @@ Smart Home Lighting System
 
 This project is a simple smart home lighting system controlled via Bluetooth. It uses an ESP32 microcontroller to manage the lighting of different rooms based on Bluetooth commands and ambient light levels detected by a sensor.
 
+> Reviewed and Evaluated by AJr.Allan
+
 Hardware Requirements;
 
 ESP32 Development Board

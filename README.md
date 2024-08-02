@@ -75,3 +75,5 @@ loop() Function;
 Continuously reads the light value from the sensor.
 Turns on the security bulb if the light value drops below a certain threshold.
 Listens for Bluetooth commands to control the bulbs.
+
+
